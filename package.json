@@ -1,0 +1,31 @@
+{
+  
+  "name": "smb",
+  "version": "0.0.0",
+  "description": "SMB/CIFS",
+  "keywords": [
+    "SAMBA", "SMB", "CIFS",
+    "Server Message Block",
+    "Common Internet File System"
+  ],
+  
+  "main": "smb",
+  
+  "dependencies": {
+    
+  },
+  
+  "devDependencies": {
+    
+  },
+  
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-smb/issues"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhermsmeier/node-smb.git"
+  }
+    
+}
