@@ -1,31 +1,30 @@
 {
-  
   "name": "smb",
   "version": "0.0.0",
-  "description": "SMB/CIFS",
+  "description": "SAMBA / SMB / CIFS",
+  "license": "MIT",
   "keywords": [
-    "SAMBA", "SMB", "CIFS",
-    "Server Message Block",
-    "Common Internet File System"
+    "samba",
+    "smb",
+    "cifs"
   ],
-  
-  "main": "smb",
-  
-  "dependencies": {
-    
+  "main": "lib/smb",
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://jhermsmeier.de/"
   },
-  
-  "devDependencies": {
-    
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
   },
-  
-  "bugs": {
-    "url": "https://github.com/jhermsmeier/node-smb/issues"
-  },
-  
+  "homepage": "https://github.com/jhermsmeier/node-smb",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jhermsmeier/node-smb.git"
+    "url": "https://github.com/jhermsmeier/node-smb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-smb/issues"
   }
-    
 }
