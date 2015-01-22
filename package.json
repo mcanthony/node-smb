@@ -14,7 +14,9 @@
     "email": "jhermsmeier@gmail.com",
     "url": "https://jhermsmeier.de/"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bloodline": "~1.0.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha"
