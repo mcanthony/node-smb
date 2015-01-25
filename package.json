@@ -15,7 +15,8 @@
     "url": "https://jhermsmeier.de/"
   },
   "dependencies": {
-    "bloodline": "~1.0.0"
+    "bloodline": "~1.0.0",
+    "debug": "~2.1.1"
   },
   "devDependencies": {},
   "scripts": {
